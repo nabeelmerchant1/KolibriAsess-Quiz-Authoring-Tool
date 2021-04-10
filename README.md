@@ -92,7 +92,7 @@ This version exports `SurveyBuilder`, `QuestionsView` and `SurveyBuilderJson` fr
 - Introduce drag and drop
 
 ### Organisation
-[Fission Labs](http://fissionlabs.com/)
+[Learning Equality](https://learningequality.org/kolibri/)
 
 ### LICENSE
 Please read it [here](https://github.com/FissionHQ/vue-survey-builder/blob/master/LICENSE.md)
