@@ -62,7 +62,7 @@ Once you import it, you can use it in your component as shown below
 - DATE
 - TIME
 
-### Keys of the JSON
+### Keys of the JSON and QTI XML
 - **id** : This is a unique field, which will be created dynamically for every qiestion. This field is required for all type of questions.
 - **type** : This represents the type of the question. The supported types are mentioned [here](). This field is required for all type of questions.
 - **multiSelect** : This represents whether the question is multi select question or not. This is is `false` by default and will be `true` only for `MULTI_CHOICE` question.
