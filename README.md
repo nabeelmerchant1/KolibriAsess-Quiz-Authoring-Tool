@@ -4,8 +4,8 @@ This is authring tool is based a survey builder component for vue.js application
 ### How to install
 You can install the component using `npm i -S vue-survey-builder`
 
-### Demo
-You can see the demo [here](http://vue-survey-builder.s3-website-us-east-1.amazonaws.com/#/)
+### Preview
+You can see the preview here http://vue-survey-builder.s3-website-us-east-1.amazonaws.com/#/
 
 
 ### Steps to use
