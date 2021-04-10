@@ -1,4 +1,4 @@
-# KolibriAssess Quiz Authring Tool
+# KolibriAssess Quiz Authoring Tool
 This is authring tool is based a survey builder component for vue.js applications.
 
 ### How to install
