@@ -1,5 +1,5 @@
-# vue-survey-builder
-This is a survey builder component for vue.js applications.
+# KolibriAssess Quiz Authring Tool
+This is authring tool is based a survey builder component for vue.js applications.
 
 ### How to install
 You can install the component using `npm i -S vue-survey-builder`
@@ -7,7 +7,6 @@ You can install the component using `npm i -S vue-survey-builder`
 ### Demo
 You can see the demo [here](http://vue-survey-builder.s3-website-us-east-1.amazonaws.com/#/)
 
-Please look at the souce code of the demo [here](https://github.com/rajeshwarpatlolla/vue-survey-builder-test)
 
 ### Steps to use
 **Step 1:**
