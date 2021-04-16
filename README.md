@@ -95,4 +95,4 @@ This version exports `SurveyBuilder`, `QuestionsView` and `SurveyBuilderJson` fr
 [Learning Equality](https://learningequality.org/kolibri/)
 
 ### LICENSE
-Please read it [here](https://github.com/FissionHQ/vue-survey-builder/blob/master/LICENSE.md)
+
